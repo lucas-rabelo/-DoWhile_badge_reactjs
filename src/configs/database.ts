@@ -1,0 +1,7 @@
+const DATABASE_TABLE = "@dowhile";
+
+const COLLECTION_TOKEN_GITHUB = `${DATABASE_TABLE}:token`;
+
+export {
+    COLLECTION_TOKEN_GITHUB
+}
